@@ -1,0 +1,5 @@
+# Medical images (DICOM, archives, etc.) — not tracked
+**/images/
+
+# OS / editor cruft
+.DS_Store
